@@ -1,5 +1,6 @@
-Hola mundo cruel
-adios marte
+
+Hola mundo de piruleta
+adios venus
 
 linea 1
 linea 2
